@@ -19,3 +19,5 @@ end
 dog = Dog.new
 dog.name = "fido"
 puts dog.name
+dog.breed = "German"
+puts dog.breed
